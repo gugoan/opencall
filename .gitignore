@@ -12,6 +12,9 @@ nbproject
 # windows thumbnail cache
 Thumbs.db
 
+# prototip
+/web/images/prototipos/*
+
 # composer vendor dir
 /vendor
 
